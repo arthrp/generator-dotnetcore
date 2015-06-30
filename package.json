@@ -1,0 +1,21 @@
+{
+  "name": "generator-dotnetcore",
+  "version": "0.1.0",
+  "description": "Helping to start up .NET Core app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "dotnet-core",
+    "dotnet",
+    "net-core",
+    "coreclr"
+  ],
+  "author": "Arthur Peka",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "yeoman-generator": "^0.18.5"
+  }
+}
