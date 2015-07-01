@@ -11,7 +11,7 @@ module.exports = generators.NamedBase.extend({
             { helloText: 'Hello, people' }
         );
 
-        this.fs.copyTpl(
+        this.fs.copy(
             this.templatePath('project.json'),
             this.destinationPath(this.name + '/project.json'),
             {}

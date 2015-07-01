@@ -1,6 +1,6 @@
 {
   "name": "generator-dotnetcore",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helping to start up .NET Core app",
   "main": "index.js",
   "scripts": {
